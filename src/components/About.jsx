@@ -15,7 +15,7 @@ function About() {
         <h1 className="text-green-600 font-semibold text-xl">
           Education & Training
         </h1>
-        <table className="table-auto w-full">
+        <table className="table-auto w-[100%]">
           <thead className="bg-green-300">
             <tr>
               <th>Degree/Certification</th>
