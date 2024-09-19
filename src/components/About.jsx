@@ -31,6 +31,7 @@ function About() {
               <td className="text-center">91.8</td>
               <td className="text-center">2020</td>
             </tr>
+            <hr/>
             <tr>
               <td className="text-center">CBSE (X)</td>
               <td className="text-center">Kendriya Vidyalaya BHU Campus Varanasi</td>
